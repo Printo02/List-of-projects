@@ -1,8 +1,8 @@
-# Project Details
+# PROJECT DETAILS 
 
 ## Portfolio 
-
-
+My personal portfolio website 
+- Repo: 
  
 ### CivicConnect
 
