@@ -6,11 +6,36 @@ Developed a personal portfolio website using HTML, CSS, JavaScript, and Bootstra
 > LINK https://printo02.github.io/PrintoMathew-portfolio/
  
 ## CivicConnect ![Red](https://img.shields.io/badge/Status-Ongoing-red)
+**CivicConnect – Citizen Complaint & Public Issue Management System** is a web-based platform developed to improve communication between citizens and government authorities by enabling efficient reporting, tracking, and resolution of public issues. Citizens can submit complaints related to roads, water supply, waste management, electricity, and other public infrastructure, along with photos, videos, and location details. Government officials can verify complaints, assign maintenance teams, monitor progress, and update complaint statuses, while administrators can manage departments, officials, and system activities. The platform also includes GPS-based location tracking, automatic department routing, public transparency, and citizen voting to prioritize issues based on public support.
+
+**🛠️ Technologies Used**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+
+> REPO:  https://github.com/Printo02/CivicConnect
 
 
 
 
-## Clinic Management System ![Green](https://img.shields.io/badge/Status-Internship-green)
+
+
+
+## Clinic Management System ![Green](https://img.shields.io/badge/:-Internship-green)
+**Clinic Management System** is a web-based application developed during my internship at **Faith Infotech, Technopark, Thiruvananthapuram**, designed to simplify and manage clinic operations. The system allows patients to book appointments with doctors, view medical reports, access doctors’ prescriptions, and manage their healthcare information digitally. It helps improve the efficiency of appointment scheduling and provides patients with easy access to their medical records.
+
+**🛠️ Technologies Used**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
+
+> REPO: https://github.com/Printo02/Clinic-Management-system
+
+
 
 
 
@@ -22,7 +47,13 @@ Developed a personal portfolio website using HTML, CSS, JavaScript, and Bootstra
 
 
 
-## Brain_Tumor_Detection & Pneumonia-Detection ![Green](https://img.shields.io/badge/Status-Internship-green)
+## Brain_Tumor_Detection & Pneumonia-Detection ![Green](https://img.shields.io/badge/:-Internship-green)
+
+Developed machine learning classification models for **Brain Tumor Detection** and **Pneumonia Detection** as part of an internship at **ICT Academy of Kerala**, held at **UL CyberPark, Kozhikode**. The projects focused on building and training classification models to identify brain tumors and pneumonia from medical images.
+
+> REPO: Pneumonia-Detection https://github.com/Printo02/Pneumonia-Detection
+
+> REPO: Brain_Tumor_Detection https://github.com/Printo02/Brain_Tumor_Detection
 
 
 
